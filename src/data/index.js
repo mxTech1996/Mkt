@@ -45,7 +45,7 @@ export const dataSite = {
   name: 'Aguirres de RL',
   url: 'https://es.wiktionary.org/wiki/hol',
   telephone: '5521784833',
-  email: 'admcaminos@emailsecure.lat',
+  email: 'admpubliservicio@emailsecure.lat',
   address:
     'BOSQUE DE RADIATAS 50, PISO 3, BOSQUES DE LAS LOMAS, CUAJIMALPA DE MORELOS, CIUDAD DE MEXICO, C.P. 05120',
   description:
